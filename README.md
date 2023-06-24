@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working within [Dashlane](https://dashlane.com) Onbording team.
+- 🔭 I’m currently working within [Dashlane](https://dashlane.com) Onboarding team.
 
 ## 💻 Stack
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-09363F?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=7d7d7d128" />
