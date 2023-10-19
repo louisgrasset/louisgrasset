@@ -6,6 +6,7 @@
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript-09363F?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=7d7d7d128" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-09363F?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=7d7d7d128" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-09363F?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=7d7d7d128" />
+<img align="left" alt="node" src="https://img.shields.io/badge/node-09363F?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&labelColor=7d7d7d128" />
 
 <br>
 
